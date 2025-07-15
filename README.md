@@ -60,4 +60,4 @@ cd portal-edge-student
 flutter pub get
 flutter run
 ```
-### For Video Demo Visit my Linkdin Profile: [Link Text](https://www.linkedin.com/in/muhammadhuzaifashah)
+### For Video Demo Visit my Linkdin Profile: [Video Demo](https://www.linkedin.com/in/muhammadhuzaifashah)
