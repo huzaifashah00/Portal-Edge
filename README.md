@@ -41,7 +41,7 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
-
+```
 ---
 
 ### 📱 For Flutter Student App (`connect-two`)
@@ -53,16 +53,11 @@ php artisan serve
 cd portal-edge-student
 flutter pub get
 flutter run
-
+```
 ### 📱 For Flutter Admin and Teachers App (`connect-app`)
 ```bash
 cd portal-edge-student
 flutter pub get
 flutter run
-
-
-```bash
-cd portal-edge-student          # Navigate into the Flutter project
-flutter clean                   # Clean any previous builds
-flutter pub get                 # Install dependencies
-flutter run                     # Run on connected device or emulator
+```
+### For Video Demo Visit my Linkdin Profile: [Link Text](https://www.linkedin.com/in/muhammadhuzaifashah)
