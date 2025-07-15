@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3551448686",
+    "project_id": "uol-connect",
+    "storage_bucket": "uol-connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3551448686:android:2c20a3beb1a37fd9c4e07f",
+        "android_client_info": {
+          "package_name": "com.portaledge.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYrGIN-CuxyRCgXqD942a-y7oTWLhvrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3551448686:android:2c20a3beb1a37fd9c4e07f",
+        "android_client_info": {
+          "package_name": "com.portaledge.staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpb7FV7ftE4RUASyGgoQVoi4I_AAcntcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

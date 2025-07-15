@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076745064352",
+    "project_id": "uol-connect-student",
+    "storage_bucket": "uol-connect-student.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076745064352:android:1ef3e77d8fa12ba4c59ec5",
+        "android_client_info": {
+          "package_name": "com.uol.connect.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDjyRYQs_A3nBOg-oxtXOPUycAE0RMRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076745064352:android:1ef3e77d8fa12ba4c59ec5",
+        "android_client_info": {
+          "package_name": "com.uol.connect.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDjyRYQs_A3nBOg-oxtXOPUycAE0RMRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
